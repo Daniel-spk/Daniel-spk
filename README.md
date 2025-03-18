@@ -17,3 +17,5 @@ Meu Linkedin
 <a href="www.linkedin.com/in/daniel-spk"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
 
 <a>www.linkedin.com/in/daniel-spk<a/>
+
+<a href="danielspk-portifolio.netlify.app/"</a>
