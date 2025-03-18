@@ -14,8 +14,8 @@ e iniciando o aprendizado de:
 
 Meu Linkedin
 <br>
-<a href="www.linkedin.com/in/daniel-spk"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
+<a href="www.linkedin.com/in/daniel-spk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
 
 <a>www.linkedin.com/in/daniel-spk<a/>
 
-<a href="danielspk-portifolio.netlify.app/"</a>
+<button><a href="danielspk-portifolio.netlify.app/"</a></button>
