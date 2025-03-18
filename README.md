@@ -16,7 +16,7 @@ Meu Linkedin
 <br>
 <a href="www.linkedin.com/in/daniel-silva-146139218"></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
 
-<a>www.linkedin.com/in/daniel-silva-146139218<a/>
+<a>www.linkedin.com/in/daniel-spk<a/>
 
 [![DANIEL stats](https://github-readme-stats.vercel.app/api?username=Daniel-spk)](https://github.com/anuraghazra/github-readme-stats)
 
