@@ -12,11 +12,10 @@ e iniciando o aprendizado de:
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"/>
 
-Meu Linkedin
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-typeScript"/>
+
+
 <br>
-<a href="www.linkedin.com/in/daniel-spk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
+<a href="www.linkedin.com/in/daniel-spk">Meu Linkedin</a>
 
-<a>www.linkedin.com/in/daniel-spk<a/>
-
-Portifólio:
-danielspk-portifolio.netlify.app
+<a href="https://danielspk-portifolio.netlify.app/#projeto">Meu Portifólio</a>
