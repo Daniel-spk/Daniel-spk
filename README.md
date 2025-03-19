@@ -14,7 +14,7 @@ e iniciando o aprendizado de:
 
 Meu Linkedin
 <br>
-<a href="www.linkedin.com/in/daniel-spk"><button src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
+<a href="www.linkedin.com/in/daniel-spk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
 
 <a>www.linkedin.com/in/daniel-spk<a/>
 
