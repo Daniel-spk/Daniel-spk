@@ -16,6 +16,5 @@ e iniciando o aprendizado de:
 
 
 <br>
-<a href="www.linkedin.com/in/daniel-spk">Meu Linkedin</a>
 
 <a href="https://danielspk-portifolio.netlify.app/#projeto">Meu Portifólio</a>
