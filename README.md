@@ -17,7 +17,7 @@ e iniciando o aprendizado de:
 
 <br>
 
-<a href="https://portfolio-daniel-spk.netlify.app/">Meu Portfólio</a>
+<a href="https://portfolio1-daniel-spk.netlify.app/">Meu Portfólio</a>
 
 ![Daniel SPK](https://github-readme-stats.vercel.app/api?username=Daniel-SPK&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
